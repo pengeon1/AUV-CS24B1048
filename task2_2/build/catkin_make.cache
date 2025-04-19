@@ -1,0 +1,2 @@
+edge_detection
+-DCATKIN_DEVEL_PREFIX=/home/piyush/AUV_Recruiment/task2_2/devel -DCMAKE_INSTALL_PREFIX=/home/piyush/AUV_Recruiment/task2_2/install -G Unix Makefiles

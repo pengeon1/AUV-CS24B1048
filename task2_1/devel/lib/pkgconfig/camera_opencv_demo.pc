@@ -1,0 +1,8 @@
+prefix=/home/piyush/AUV_Recruiment/task2_1/devel
+
+Name: camera_opencv_demo
+Description: Description of camera_opencv_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

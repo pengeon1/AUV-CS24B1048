@@ -1,0 +1,4 @@
+<launch>
+    <node name="edge_detection_publisher" pkg="edge_detection" type="edge_detection_publisher.py" output="screen"/>
+    <node name="edge_detection_subscriber" pkg="edge_detection" type="edge_detection_subscriber.py" output="screen"/>
+</launch>

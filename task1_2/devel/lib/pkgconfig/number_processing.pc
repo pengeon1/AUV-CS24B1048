@@ -1,0 +1,8 @@
+prefix=/home/piyush/AUV_Recruiment/task1_2/devel
+
+Name: number_processing
+Description: Description of number_processing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

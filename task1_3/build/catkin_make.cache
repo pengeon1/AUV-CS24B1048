@@ -1,0 +1,2 @@
+bot_simulator
+-DCATKIN_DEVEL_PREFIX=/home/piyush/AUV_Recruiment/task1_3/devel -DCMAKE_INSTALL_PREFIX=/home/piyush/AUV_Recruiment/task1_3/install -G Unix Makefiles
