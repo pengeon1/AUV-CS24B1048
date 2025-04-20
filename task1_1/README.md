@@ -1,4 +1,7 @@
 # CS24B1048 - Piyush Mishra
+1. Create a ROS package which would enable 2 people (Jolyne and Joestar) to chat with
+each other on the same rosnode and the same rostopic.
+
 Here is my approach:
 1. Keep a publisher to publish the data recieved from the sender rosnode to the reciever rosnode.
 2. Subscribe the rosnodes to the same rostopic.
